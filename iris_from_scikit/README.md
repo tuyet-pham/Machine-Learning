@@ -8,4 +8,4 @@
 
 
 #### /iris_from_scikit/iris_pipeline.py
-![from_pydot](/iris_pipeline/iris_pipeline.png)
+![from_pydot](/pipeline/iris_pipeline.png)
